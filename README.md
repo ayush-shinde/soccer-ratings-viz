@@ -53,7 +53,4 @@ Note: These images just depict the concept I attempt to replicate in my project.
 <p>Code basic customizable scatter plot.</p>
 <strong>Week 6: Interactivity Enhancement</strong>
 <p>Refine interactivity and user interface.</p>
-<strong>Week 7: User Testing</strong>
-<p>Test features and gather feedback.</p>
-<strong>Week 8: Finalization</strong>
 <p>Final adjustments and complete documentation.</p>
