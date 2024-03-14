@@ -3,6 +3,7 @@
 ## Data
 
 The primary data source for this project will be player ratings from the EAFC24 database, which provides comprehensive ratings for soccer players. Additional statistics will be collected to complement these ratings and provide a broader understanding of each player's performance.
+Source:https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset
 
 ## Questions & Tasks
 
@@ -26,23 +27,11 @@ Customizable Scatter Plot: Users will be able to select any two performance metr
 
 
 ## Prototypes
+![image](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/1c58eada-aae4-4d2f-94e4-104a7aaba426)
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+![image](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/fedae3b3-96f3-4159-9460-41ea933190e4)
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+Note: These images just depict the concept I attempt to replicate in my project. 
 
 ## Open Questions
 
