@@ -34,8 +34,55 @@ Customizable Scatter Plot: Users will be able to select any two performance metr
 Note: These images just depict the concept I attempt to replicate in my project. 
 
 ## Open Questions
-
+<ul>
+  <li><strong>Interactive Features:</strong> Determining the implementation of interactive elements like brushing in the parallel coordinate plot for a seamless user experience.</li>
+  <li><strong>User Interface Design:</strong> Designing an intuitive user interface that allows users to customize views without complexity overload.</li>
+  <li><strong>Responsiveness:</strong> Achieving a responsive visualization that works across various devices and screen sizes.</li>
+</ul>
 
 ## Milestones
+  <li><strong>Week 1: Initialization</strong>
+    <ul>
+      <li>Set up GitHub repository.</li>
+      <li>Gather initial data from EAFC24.</li>
+    </ul>
+  </li>
+  <li><strong>Week 2: Data Preprocessing</strong>
+    <ul>
+      <li>Clean and preprocess data for visualization.</li>
+      <li>Sketch initial spider chart design.</li>
+    </ul>
+  </li>
+  <li><strong>Week 3: Spider Chart Development</strong>
+    <ul>
+      <li>Implement basic interactivity for the spider chart.</li>
+    </ul>
+  </li>
+  <li><strong>Week 4: Parallel Coordinates</strong>
+    <ul>
+      <li>Develop parallel coordinate plot with basic interactivity.</li>
+    </ul>
+  </li>
+  <li><strong>Week 5: Scatter Plot Implementation</strong>
+    <ul>
+      <li>Code basic customizable scatter plot.</li>
+    </ul>
+  </li>
+  <li><strong>Week 6: Interactivity Enhancement</strong>
+    <ul>
+      <li>Refine interactivity and user interface.</li>
+    </ul>
+  </li>
+  <li><strong>Week 7: User Testing</strong>
+    <ul>
+      <li>Test features and gather feedback.</li>
+    </ul>
+  </li>
+  <li><strong>Week 8: Finalization</strong>
+    <ul>
+      <li>Final adjustments and complete documentation.</li>
+    </ul>
+  </li>
+</ul>
 
-(for each week, estimate what would be accomplised)
+
