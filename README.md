@@ -2,19 +2,24 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
-
+The primary data source for this project will be player ratings from the EAFC24 database, which provides comprehensive ratings for soccer players. Additional statistics will be collected to complement these ratings and provide a broader understanding of each player's performance.
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+* Data acquisition and cleaning from the EAFC24 database to ensure usability in the visualization.
+* Creation of an interactive spider chart to visualize individual player ratings across multiple metrics.
+* Development of parallel coordinate plots to compare multiple players across different performance metrics.
+* Design of a customizable scatter plot to compare players on any two selected performance metrics.
 
 ## Sketches
+
+The final project will feature an interactive full-screen visualization with the following components:
+
+Interactive Spider Chart: Allows users to select a soccer player and view their ratings across various metrics in a spider chart format.
+Parallel Coordinate Plot: Players will be represented as lines across different axes, each corresponding to a performance metric. Users can filter and customize the visualization by brushing over axes and rearranging or removing them.
+Customizable Scatter Plot: Users will be able to select any two performance metrics to be displayed on the X and Y axes and compare a selected number of players on these metrics.
 
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
@@ -41,7 +46,6 @@ Also, you can study the [source](https://raw.githubusercontent.com/curran/datavi
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
 
 ## Milestones
 
