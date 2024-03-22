@@ -24,7 +24,7 @@
 <p><strong>Prototypes</strong></p>
 <p>Note: The following images are conceptual representations aiming to be replicated with enhancements in the project.</p>
 
-![football ratings](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/b293fe01-926e-45b2-9504-b4c083bc12a2)
+![football ratings](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/b293fe01-926e-45b2-9504-b4c083bc12a2) <br>
  <a href="https://vizhub.com/ayush-shinde/player_ratings">Soccer Ratings VizHub</a>
 
 ![spider_chart](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/deaf1456-83d3-4126-925e-e46d281d9464)
