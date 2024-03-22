@@ -24,12 +24,10 @@
 <p><strong>Prototypes</strong></p>
 <p>Note: The following images are conceptual representations aiming to be replicated with enhancements in the project.</p>
 
-![image](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/deaf1456-83d3-4126-925e-e46d281d9464)
+![football ratings](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/b293fe01-926e-45b2-9504-b4c083bc12a2)
+ <a href="https://vizhub.com/ayush-shinde/player_ratings">Soccer Ratings VizHub</a>
 
-![image](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/94b67a09-18c1-403b-ad28-03a38eebc65e)
-
-![image](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/1bd568a9-90f2-4baf-b1dc-3ad9bfd49628)
-
+![spider_chart](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/deaf1456-83d3-4126-925e-e46d281d9464)
 
 <p>Sources: <a href="https://vizhub.com/yichenlilyc/99b510120dcc4b4c8100a0005ee632a1">VizHub</a>, <a href="https://blocks.roadtolarissa.com/syntagmatic/raw/3150059/index.html">Road to Larissa</a></p>
 
