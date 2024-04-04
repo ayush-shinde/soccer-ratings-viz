@@ -21,8 +21,7 @@
   <li><em>Newly Proposed Visualizations:</em> Incorporating heatmaps and bar charts for enhanced data representation and user interactivity.</li>
 </ul>
 
-<p><strong>Prototypes</strong></p>
-<p>Note: The following images are conceptual representations aiming to be replicated with enhancements in the project.</p>
+<p><strong>Progress in snippets</strong></p>
 
 ![image](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/08e51f01-fa49-4d95-95f1-c6e0e2d1ced8)
 <br>
