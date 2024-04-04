@@ -26,7 +26,7 @@
 
 ![image](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/08e51f01-fa49-4d95-95f1-c6e0e2d1ced8)
 <br>
- <a href="https://vizhub.com/ayush-shinde/player_ratings">Soccer Ratings VizHub</a>
+ <a href="https://vizhub.com/ayush-shinde/parallel_coord">Soccer Ratings VizHub</a>
 
 ![image](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/306804e7-22b4-4d95-b415-e4571a45f24f)
 
