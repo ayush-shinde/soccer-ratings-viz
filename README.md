@@ -24,12 +24,12 @@
 <p><strong>Prototypes</strong></p>
 <p>Note: The following images are conceptual representations aiming to be replicated with enhancements in the project.</p>
 
-![football ratings](file:///C:/Users/shind/Downloads/3becc67e028247cbb0689c712f658886-960.webp) <br>
+![football ratings](![image](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/c92e8596-f040-42a1-9782-6e5756079d48)) <br>
  <a href="https://vizhub.com/ayush-shinde/player_ratings">Soccer Ratings VizHub</a>
 
-![spider_chart](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/deaf1456-83d3-4126-925e-e46d281d9464)
+![spider_chart](![image](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/2e1e4818-1ff9-48f1-b790-c27f28021385))
 
-<p>Sources: <a href="https://vizhub.com/yichenlilyc/99b510120dcc4b4c8100a0005ee632a1">VizHub</a>, <a href="https://blocks.roadtolarissa.com/syntagmatic/raw/3150059/index.html">Road to Larissa</a></p>
+<p>Sources: <a href="https://vizhub.com/ayush-shinde/spider_chart">VizHub</a>, <a href="https://blocks.roadtolarissa.com/syntagmatic/raw/3150059/index.html">Road to Larissa</a></p>
 
 <h2>Open Questions</h2>
 <ul>
