@@ -54,3 +54,11 @@
 <p>Refine interactivity across all visualizations, focusing on user engagement and the readability of complex data.</p>
 <p><strong>Week 7 and 8: User Testing, Final Adjustments, and Documentation</strong></p>
 <p>Conduct thorough testing, iterate based on user feedback, and finalize project documentation.</p>
+
+<h2>Project Self-Reflection and Next Steps</h2>
+
+<p>As I take a step back and glance at the journey of this project, I see milestones reached and some paths yet to be travelled. The spider chart is shaping up well, inviting viewers to delve into the data with ease. It stands as a testament to the goals set and the promises kept. Yet, in its simplicity, it calls for depth—the ability to compare two players head-to-head with one chart layered over the other, bringing a new dimension to the analysis.</p>
+
+<p>The scatter plot and bar chart are under construction, pieces of the puzzle that will complete the picture I envisioned. It's been a learning curve, recognizing that a project evolves with time, and some features, like the player comparison, rise in priority due to the richness they offer.</p>
+
+<p>Moving forward, I'm channeling my efforts to breathe life into these remaining pieces, refining the interactivity and ensuring the final deliverable not only informs but also engages. It's about fine-tuning the details now, ensuring that every chart, every line, speaks to the audience as clearly as it speaks to the data.</p>
