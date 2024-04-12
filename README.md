@@ -8,7 +8,6 @@
   <li>Creation of an interactive spider chart for visualizing individual player ratings across multiple metrics.</li>
   <li>Development of parallel coordinate plots for multi-player performance comparison.</li>
   <li>Design of a customizable scatter plot for pairwise metric comparison among players.</li>
-  <li><em>Exploration of heatmaps for depicting player performance variations across different conditions or times.</em></li>
   <li><em>Integration of bar charts to clearly present specific statistics such as goals scored or assists.</em></li>
 </ul>
 
