@@ -16,14 +16,14 @@ This data visualization project offers an in-depth analysis of soccer players' p
 ### Interactive Spider Chart
 This visualization enables users to select a player and view a detailed spider chart reflecting their performance across multiple metrics. It offers an at-a-glance evaluation of a player's strengths and weaknesses, allowing for quick comparisons between different players.
 
-![Spider Chart](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/08e51f01-fa49-4d95-95f1-c6e0e2d1ced8)
-[Discover Insights with Parallel Coordinates](https://vizhub.com/ayush-shinde/parallel_coord)
+![Spder Chart](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/85fb84e8-f704-4f13-976f-a9f28c2c9e77)
+[Explore the Interactive Spider Chart](https://vizhub.com/ayush-shinde/spider_chart)
 
 ### Parallel Coordinate Plot
 The parallel coordinate plot serves as a powerful tool for comparing the performances of multiple players simultaneously. With features such as brushing and dynamic updates, users can interact with the data, focusing on specific aspects of player statistics.
 
 ![Parallel Coordinate Plot](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/13f4d67a-50a0-4970-ae30-30c0bb667f6c)
-[Explore the Interactive Spider Chart](https://vizhub.com/ayush-shinde/spider_chart)
+[Discover Insights with Parallel Coordinates](https://vizhub.com/ayush-shinde/parallel_coord)
 
 ## Features and Interactivity
 
