@@ -4,6 +4,13 @@
 
 This data visualization project offers an in-depth analysis of soccer players' performances based on the comprehensive EAFC24 database obtained from Kaggle. The project showcases an interactive platform where users can explore various aspects of player statistics through a series of data-driven visualizations.
 
+<p><strong>Questions & Tasks</strong></p>
+<ul>
+  <li>Data acquisition and cleaning from the EAFC24 database for visualization readiness.</li>
+  <li>Creation of an interactive spider chart for visualizing individual player ratings across multiple metrics.</li>
+  <li>Development of parallel coordinate plots for multi-player performance comparison.</li>
+</ul>
+
 ## Final Visualizations
 
 ### Interactive Spider Chart
@@ -36,8 +43,7 @@ This project's journey underscores the fluidity of development, where feedback a
 
 I invite the community to build upon this foundation, and I look forward to seeing the new directions in which this project can grow.
 
-Thank you for following along with the Soccer Player Performance Analysis visualization project. For those interested in the technical details or in contributing to the project's future, all source code is accessible on [GitHub](https://github.com/ayush-shinde/soccer-ratings-viz).
-
+Thank you for following along with the Soccer Player Performance Analysis visualization project.
 
 ## Acknowledgments
 
