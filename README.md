@@ -48,6 +48,6 @@ I extend my gratitude to all who have taken an interest in this project. The Soc
 
 ## Acknowledgments
 
-A special thanks to the community feedback that has been invaluable in shaping the direction of this project. Your insights have not only enhanced the functionality of the visualizations but also ensured they serve a meaningful purpose.
+A special thanks to Professor Kelleher and my classmates, whose feedback has been invaluable in shaping the direction of this project. Your insights have not only enhanced the functionality of the visualizations but also ensured they serve a meaningful purpose.
 
 ---
