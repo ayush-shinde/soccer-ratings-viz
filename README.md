@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This data visualization project offers an in-depth analysis of soccer players' performances based on the comprehensive EAFC24 database obtained from Kaggle. The project showcases an interactive platform where users can explore various aspects of player statistics through a series of data-driven visualizations.
+This data visualization project offers an in-depth analysis of soccer players' performances based on the comprehensive EAFC24 database obtained from Kaggle. The project showcases an interactive platform where users can explore various aspects of player statistics through a series of data-driven visualizations. <br>
+![Data Source](https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset)
 
 <p><strong>Questions & Tasks</strong></p>
 <ul>
