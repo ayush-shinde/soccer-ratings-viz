@@ -1,63 +1,46 @@
-<h2>Data Visualization Project</h2>
-<p><strong>Data</strong></p>
-<p>The primary data source for this project will be player ratings from the EAFC24 database, accessible via <a href="https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset">Kaggle</a>. These comprehensive ratings for soccer players will be supplemented with additional statistics to provide a multi-faceted view of player performance.</p>
+# Data Visualization Project: Soccer Player Performance Analysis
 
-<p><strong>Questions & Tasks</strong></p>
-<ul>
-  <li>Data acquisition and cleaning from the EAFC24 database for visualization readiness.</li>
-  <li>Creation of an interactive spider chart for visualizing individual player ratings across multiple metrics.</li>
-  <li>Development of parallel coordinate plots for multi-player performance comparison.</li>
-  <li>Design of a customizable scatter plot for pairwise metric comparison among players.</li>
-  <li><em>Integration of bar charts to clearly present specific statistics such as goals scored or assists.</em></li>
-</ul>
+## Project Overview
 
-<p><strong>Sketches</strong></p>
-<p>The project will feature an interactive full-screen visualization comprising:</p>
-<ul>
-  <li><strong>Interactive Spider Chart:</strong> Users can select a player to view a spider chart representing their ratings.</li>
-  <li><strong>Parallel Coordinate Plot:</strong> A graphical tool for multi-player performance analysis with interactive filtering and customization.</li>
-  <li><strong>Customizable Scatter Plot:</strong> A dynamic plot allowing users to select metrics for X and Y axes to compare players.</li>
-  <li><em>Newly Proposed Visualizations:</em> Incorporating heatmaps and bar charts for enhanced data representation and user interactivity.</li>
-</ul>
+This data visualization project offers an in-depth analysis of soccer players' performances based on the comprehensive EAFC24 database obtained from Kaggle. The project showcases an interactive platform where users can explore various aspects of player statistics through a series of data-driven visualizations.
 
-<p><strong>Progress in snippets</strong></p>
+## Final Visualizations
 
-![image](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/08e51f01-fa49-4d95-95f1-c6e0e2d1ced8)
-<br>
- <a href="https://vizhub.com/ayush-shinde/parallel_coord">Soccer Ratings VizHub</a>
+### Interactive Spider Chart
+This visualization enables users to select a player and view a detailed spider chart reflecting their performance across multiple metrics. It offers an at-a-glance evaluation of a player's strengths and weaknesses, allowing for quick comparisons between different players.
 
-![image](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/306804e7-22b4-4d95-b415-e4571a45f24f)
+![Spider Chart](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/08e51f01-fa49-4d95-95f1-c6e0e2d1ced8)
+[Explore the Interactive Spider Chart](https://vizhub.com/ayush-shinde/spider_chart)
+
+### Parallel Coordinate Plot
+The parallel coordinate plot serves as a powerful tool for comparing the performances of multiple players simultaneously. With features such as brushing and dynamic updates, users can interact with the data, focusing on specific aspects of player statistics.
+
+![Parallel Coordinate Plot](https://github.com/ayush-shinde/soccer-ratings-viz/assets/73592376/306804e7-22b4-4d95-b415-e4571a45f24f)
+[Discover Insights with Parallel Coordinates](https://vizhub.com/ayush-shinde/parallel_coord)
+
+## Features and Interactivity
+
+The visualizations are designed with the end-user in mind, offering:
+
+- **Dynamic Interaction**: Brushing and tooltips provide a seamless experience, allowing users to interact with the data intuitively.
+- **Responsive Design**: Optimized for various devices, ensuring accessibility and a consistent user experience across different screen sizes.
+- **Customizable Views**: Users can customize the charts to focus on the data that matters most to them, enhancing the analytical process.
+
+## Conclusion
+
+As this project comes to a close, it stands as a comprehensive platform that brings soccer player performance data to life. The interactive spider chart and parallel coordinate plot are the result of diligent development, reflecting a commitment to both detail and user experience. These visual tools not only provide insightful analysis but also engage users in an exploration of the multifaceted nature of soccer statistics.
+
+While the initial vision has been realized with the completion of these visualizations, the field of data analysis is ever-evolving. Future enhancements such as the integration of scatter plots and bar charts would further expand the analytical capabilities of this platform. The prospect of layering spider charts for direct player comparisons remains an enticing avenue for future iterations.
+
+This project's journey underscores the fluidity of development, where feedback and reflection shape the end product. As it stands, this visualization suite offers a robust starting point for anyone interested in delving deeper into soccer analytics or developing further features.
+
+I invite the community to build upon this foundation, and I look forward to seeing the new directions in which this project can grow.
+
+Thank you for following along with the Soccer Player Performance Analysis visualization project. For those interested in the technical details or in contributing to the project's future, all source code is accessible on [GitHub](https://github.com/ayush-shinde/soccer-ratings-viz).
 
 
-<p>Sources: <a href="https://vizhub.com/ayush-shinde/spider_chart">VizHub</a>, <a href="https://blocks.roadtolarissa.com/syntagmatic/raw/3150059/index.html">Road to Larissa</a></p>
+## Acknowledgments
 
-<h2>Open Questions</h2>
-<ul>
-  <li>Integration of interactive features such as brushing in the parallel coordinate plot and dynamic updates in the scatter plot for a seamless user experience.</li>
-  <li>Intuitive interface design for easy customization without overwhelming users with the data's complexity.</li>
-  <li>Ensuring visualization responsiveness across various devices and screen sizes for universal accessibility.</li>
-</ul>
+A special thanks to the community feedback that has been invaluable in shaping the direction of this project. Your insights have not only enhanced the functionality of the visualizations but also ensured they serve a meaningful purpose.
 
-<h2>Milestones</h2>
-<p><strong>Week 1: Initialization</strong></p>
-<p>Setup the GitHub repository and gather the initial data from EAFC24.</p>
-<p><strong>Week 2: Data Preprocessing</strong></p>
-<p>Clean and preprocess the data. Begin sketching the spider chart design with potential inclusion of new visualization types based on feedback.</p>
-<p><strong>Week 3: Spider Chart Development</strong></p>
-<p>Implement basic interactivity for the spider chart and explore heatmap and bar chart designs.</p>
-<p><strong>Week 4: Parallel Coordinates</strong></p>
-<p>Develop the parallel coordinate plot, integrating basic interactive features and user feedback mechanisms.</p>
-<p><strong>Week 5: Scatter Plot and Additional Visualizations</strong></p>
-<p>Code the customizable scatter plot and incorporate preliminary designs for heatmaps and bar charts.</p>
-<p><strong>Week 6: Interactivity Enhancement and Refinement</strong></p>
-<p>Refine interactivity across all visualizations, focusing on user engagement and the readability of complex data.</p>
-<p><strong>Week 7 and 8: User Testing, Final Adjustments, and Documentation</strong></p>
-<p>Conduct thorough testing, iterate based on user feedback, and finalize project documentation.</p>
-
-<h2>Project Self-Reflection and Next Steps</h2>
-
-<p>As I take a step back and glance at the journey of this project, I see milestones reached and some paths yet to be travelled. The spider chart is shaping up well, inviting viewers to delve into the data with ease. It stands as a testament to the goals set and the promises kept. Yet, in its simplicity, it calls for depth—the ability to compare two players head-to-head with one chart layered over the other, bringing a new dimension to the analysis.</p>
-
-<p>The scatter plot and bar chart are under construction, pieces of the puzzle that will complete the picture I envisioned. It's been a learning curve, recognizing that a project evolves with time, and some features, like the player comparison, rise in priority due to the richness they offer.</p>
-
-<p>Moving forward, I'm channeling my efforts to breathe life into these remaining pieces, refining the interactivity and ensuring the final deliverable not only informs but also engages. It's about fine-tuning the details now, ensuring that every chart, every line, speaks to the audience as clearly as it speaks to the data.</p>
+---
